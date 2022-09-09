@@ -5,8 +5,6 @@ b = [1,24,4]
 a_lista = []
 b_lista = []
 longitud = len(a)
-print(sum(a))
-print(len(a))
 
 for x in range(longitud):
     if a[x] > b[x]:
